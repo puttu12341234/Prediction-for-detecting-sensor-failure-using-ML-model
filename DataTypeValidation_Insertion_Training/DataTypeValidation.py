@@ -11,11 +11,8 @@ class dBOperation:
     """
       This class shall be used for handling all the SQL operations.
 
-      Written By: iNeuron Intelligence
-      Version: 1.0
-      Revisions: None
+     """
 
-      """
     def __init__(self):
         self.path = 'Training_Database/'
         self.badFilePath = "Training_Raw_files_validated/Bad_Raw"
